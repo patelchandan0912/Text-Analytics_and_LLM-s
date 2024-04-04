@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<root>
+	<name type="list">
+		<item type="str">Jason</item>
+		<item type="str">Molly</item>
+		<item type="str">Tina</item>
+		<item type="str">Jake</item>
+		<item type="str">Amy</item>
+	</name>
+	<year type="list">
+		<item type="int">2012</item>
+		<item type="int">2012</item>
+		<item type="int">2013</item>
+		<item type="int">2014</item>
+		<item type="int">2014</item>
+	</year>
+	<reports type="list">
+		<item type="int">4</item>
+		<item type="int">24</item>
+		<item type="int">31</item>
+		<item type="int">2</item>
+		<item type="int">3</item>
+	</reports>
+</root>
